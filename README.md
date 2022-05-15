@@ -7,17 +7,26 @@ This is a simple THW updater that I created for learning purposes during the cha
 
 Use one of the following APIs to test the different Hashtags
 
-Web 3: 
+Web 3: https://hashnode.com/api/feed/tag/thw-web3
 
-Web Apps:
+Web Apps: https://hashnode.com/api/feed/tag/thw-web-apps
 
-Mobile Apps:
+Mobile Apps: https://hashnode.com/api/feed/tag/thw-mobile-apps 
 
-Cloud Computing:
+Cloud Computing: https://hashnode.com/api/feed/tag/thw-cloud-computing
+
+```
+API_URLs = ['https://hashnode.com/api/feed/tag/thw-cloud-computing',
+            'https://hashnode.com/api/feed/tag/thw-mobile-apps',
+            'https://hashnode.com/api/feed/tag/thw-web3',
+            'https://hashnode.com/api/feed/tag/thw-web-apps'
+            
+            ]
+```
 
 ## ```code```
 
-``` pip install ```
+``` pip install thwUpdater```
 
 ```
 import 

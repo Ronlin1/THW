@@ -9,8 +9,8 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="THW_Updater",
-    version="1.0.0",
+    name="thwInfoTabs",
+    version="1.1.0",
     description="Keeping Tabs With The Hashnode Writeathon (THW)",
     long_description=README,
     long_description_content_type="text/markdown",

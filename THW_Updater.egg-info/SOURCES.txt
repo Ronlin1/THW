@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.cfg
-setup.py
-THW_Updater.egg-info/PKG-INFO
-THW_Updater.egg-info/SOURCES.txt
-THW_Updater.egg-info/dependency_links.txt
-THW_Updater.egg-info/requires.txt
-THW_Updater.egg-info/top_level.txt
