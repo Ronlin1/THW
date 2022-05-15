@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: thwInfoTabs
+Name: thwAPI
 Version: 1.1.0
 Summary: Keeping Tabs With The Hashnode Writeathon (THW)
 Home-page: https://github.com/Ronlin1/THW
@@ -7,14 +7,13 @@ Author: Ronnie Atuhaire
 Author-email: ronlinx6@gmail.com
 License: MIT
 Keywords: Hashnode Writeathon Challenges Blogging Tech
-Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# THW
+# THW Info Tabs (Updater)
 The Hashnode Writeathon Python Module &amp; API CONNECTOR
 
 This is a simple THW updater that I created for learning purposes during the challenge;
@@ -42,13 +41,13 @@ API_URLs = ['https://hashnode.com/api/feed/tag/thw-cloud-computing',
 
 ## ```code```
 
-``` pip install thwUpdater```
+``` pip install thwAPI```
 
 ```
-import 
+import thwAPI
 
 URL = 'https://hashnode.com/api/feed/tag/thw-web3'
-web_three = THW(URL).count()
+web_three = thwAPI(URL).count()
 
 print(web_three)
 ```
@@ -66,8 +65,6 @@ The output depends at a time of running this;
 
 Refer to Tests File for more examples;
 
-Read Blog-Series here;
+Read Blog-Series here; https://blog.octachart.com/series/tabs-with-thw
 
 Star this repo if you learnt something from my mini-series
-
-

@@ -68,7 +68,7 @@ class THW:
         self.connect()
         # print(self.posts)
         for idx, post in enumerate(self.posts):            
-            return idx, post
+            print(idx, post)
             
     def dump_json(self):
         self.connect()

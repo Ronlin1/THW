@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.cfg
-setup.py
-thwInfoTabs.egg-info/PKG-INFO
-thwInfoTabs.egg-info/SOURCES.txt
-thwInfoTabs.egg-info/dependency_links.txt
-thwInfoTabs.egg-info/requires.txt
-thwInfoTabs.egg-info/top_level.txt

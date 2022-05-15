@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="thwInfoTabs",
+    name="thwAPI",
     version="1.1.0",
     description="Keeping Tabs With The Hashnode Writeathon (THW)",
     long_description=README,
@@ -28,4 +28,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.10",
     ],
+    packages=["thwAPI"],
+    include_package_data=True,
+    package_dir={'/':'thwAPI'}
 )

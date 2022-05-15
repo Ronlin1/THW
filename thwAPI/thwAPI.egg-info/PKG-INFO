@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: thwAPI
+Version: 1.1.0
+Summary: Keeping Tabs With The Hashnode Writeathon (THW)
+Home-page: https://github.com/Ronlin1/THW
+Author: Ronnie Atuhaire
+Author-email: ronlinx6@gmail.com
+License: MIT
+Keywords: Hashnode Writeathon Challenges Blogging Tech
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # THW Info Tabs (Updater)
 The Hashnode Writeathon Python Module &amp; API CONNECTOR
 
@@ -26,13 +41,13 @@ API_URLs = ['https://hashnode.com/api/feed/tag/thw-cloud-computing',
 
 ## ```code```
 
-``` pip install thwAPI```
+``` pip install thwInfoTabs```
 
 ```
-import thwAPI
+import 
 
 URL = 'https://hashnode.com/api/feed/tag/thw-web3'
-web_three = thwAPI(URL).count()
+web_three = THW(URL).count()
 
 print(web_three)
 ```
