@@ -26,6 +26,6 @@ setup(
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.10.0",
+        "Programming Language :: Python :: 3.10",
     ],
 )

@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: THW-Updater
+Version: 1.0.0
+Summary: Keeping Tabs With The Hashnode Writeathon (THW)
+Home-page: https://github.com/Ronlin1/THW
+Author: Ronnie Atuhaire
+Author-email: ronlinx6@gmail.com
+License: MIT
+Keywords: Hashnode Writeathon Challenges Blogging Tech
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# THW
+The Hashnode Writeathon Python Module &amp; API CONNECTOR
+
+This is a simple THW updater that I created for learning purposes during the challenge;
+
+## Usage
+
+Use one of the following APIs to test the different Hashtags
+
+Web 3: 
+
+Web Apps:
+
+Mobile Apps:
+
+Cloud Computing:
+
+## ```code```
+
+``` pip install ```
+
+```
+import 
+
+URL = 'https://hashnode.com/api/feed/tag/thw-web3'
+web_three = THW(URL).count()
+
+print(web_three)
+```
+
+Expected output;
+
+```
+......
+There are currently 95 posts written!
+....
+
+```
+
+The output depends at a time of running this;
+
+Refer to Tests File for more examples;
+
+Read Blog-Series here;
+
+Star this repo if you learnt something from my mini-series
+
+
