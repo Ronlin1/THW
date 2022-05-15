@@ -1,4 +1,4 @@
-# THW
+# THW Info Tabs (Updater)
 The Hashnode Writeathon Python Module &amp; API CONNECTOR
 
 This is a simple THW updater that I created for learning purposes during the challenge;
@@ -26,7 +26,7 @@ API_URLs = ['https://hashnode.com/api/feed/tag/thw-cloud-computing',
 
 ## ```code```
 
-``` pip install thwUpdater```
+``` pip install thwInfoTabs```
 
 ```
 import 
