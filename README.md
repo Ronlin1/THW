@@ -50,6 +50,6 @@ The output depends at a time of running this;
 
 Refer to Tests File for more examples;
 
-Read Blog-Series here;
+Read Blog-Series here; https://blog.octachart.com/series/tabs-with-thw
 
 Star this repo if you learnt something from my mini-series
